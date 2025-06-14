@@ -27,4 +27,3 @@ A powerful image classification model built using **Transfer Learning with ResNe
 ## 📦 Dataset
 
 - **Source:** 14-class flower dataset
-- **Structure:**
